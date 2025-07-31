@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/METAL/METALDOOR046A.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/rp_doctorwhouniverse_beta2/c-1202_-10323_-2280"
+	}
+}

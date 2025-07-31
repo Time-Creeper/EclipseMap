@@ -1,0 +1,6 @@
+"UnlitGeneric"
+{
+	"$basetexture" "cubic/lights/warm1"
+	"$selfillum" 1
+	"$surfaceprop" "glass"
+}

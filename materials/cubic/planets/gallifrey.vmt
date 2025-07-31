@@ -1,0 +1,25 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "cubic/planets/gallifrey_diff"
+	"$bumpmap" "cubic/planets/gallifrey_bump"
+	"$model" 1
+	"$lightwarptexture" "cubic/planets/lightwarps/terra_lightwarp"
+	
+	"$phong" 1
+	"$phongexponent" 16
+	"$phongboost" 5
+	"$phongfresnelranges" "[0.5 0.5 0.5]"
+	
+	"$selfillum" 1
+	"$selifillumtint" "[1 0.05 0]"
+		
+			"Proxies"
+	{
+		"TextureScroll"
+		{
+			"texturescrollvar" "$basetexturetransform"
+			"texturescrollrate" 0.0005
+			"texturescrollangle" 0
+		}
+	}
+}

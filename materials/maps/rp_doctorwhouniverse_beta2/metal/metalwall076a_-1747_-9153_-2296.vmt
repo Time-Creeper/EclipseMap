@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/METAL/METALWALL076A.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/rp_doctorwhouniverse_beta2/c-1747_-9153_-2296"
+	}
+}

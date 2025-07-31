@@ -1,0 +1,15 @@
+"WorldVertexTransition"
+{
+	"$basetexture" "Nature/rockwall010b"
+	"$basetexture2" "Nature/dirtfloor004a"
+	"%tooltexture" "cubic/nature/blendrockmoon_tooltexture"
+	    "$basetexturetransform" "center .5 .5 scale 2 2 rotate 0 translate 0 0"
+        "$basetexturetransform2" "center .5 .5 scale 1 1 rotate 0 translate 0 0"
+        
+    
+	"$surfaceprop" "rock"
+	"$surfaceprop2" "gravel"
+	"$bumpmap" "cubic/nature/rockwall11d_n2"
+	"$bumpmap2" "cubic/nature/regolith_normal"
+	"%keywords" "cubic"
+}

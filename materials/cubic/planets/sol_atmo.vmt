@@ -1,0 +1,6 @@
+"UnlitGeneric" {
+	"$basetexture" "cubic/planets/brown3.vtf"
+	"$translucent" 1
+	"$additive" 1
+	"$model" 1
+}

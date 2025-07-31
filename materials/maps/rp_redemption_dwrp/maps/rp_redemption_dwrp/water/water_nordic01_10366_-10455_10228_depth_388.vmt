@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/maps/rp_redemption_dwrp/water/water_nordic01_10366_-10455_10228.vmt"
+	"insert"
+	{
+		"$waterdepth"		"388"
+	}
+}

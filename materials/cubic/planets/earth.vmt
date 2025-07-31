@@ -1,0 +1,22 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "cubic/planets/earth_diff"
+	"$bumpmap" "cubic/planets/earth_bump"
+	"$model" 1
+	"$lightwarptexture" "cubic/planets/lightwarps/terra_lightwarp"
+	
+	"$phong" 1
+	"$phongexponent" 16
+	"$phongboost" 5
+	"$phongfresnelranges" "[0.5 0.5 0.5]"
+		
+			"Proxies"
+	{
+		"TextureScroll"
+		{
+			"texturescrollvar" "$basetexturetransform"
+			"texturescrollrate" -0.004
+			"texturescrollangle" 0
+		}
+	}
+}

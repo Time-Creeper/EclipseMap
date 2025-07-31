@@ -1,0 +1,9 @@
+"WorldVertexTransition"
+{
+	"$basetexture" "cubic/nature/mars_dirt9"
+	"$basetexture2" "cubic/nature/mars_sand2"
+	"%tooltexture" "cubic/nature/blendmarssand_tooltexture"  
+	"$surfaceprop" "gravel"
+	"$surfaceprop2" "sand"
+	"%keywords" "cubic"
+}

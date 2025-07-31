@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/BRICK/BRICKWALL031B.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/rp_doctorwhouniverse_beta2/c99_-8939_-2296"
+	}
+}

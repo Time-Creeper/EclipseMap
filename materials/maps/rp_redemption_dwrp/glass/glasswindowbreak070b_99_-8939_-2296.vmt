@@ -1,0 +1,11 @@
+"patch"
+{
+	"include"		"materials/glass/glasswindowbreak070b.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/rp_redemption_dwrp/c99_-8939_-2296"
+		"Proxies"
+		{
+		}
+	}
+}

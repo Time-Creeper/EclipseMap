@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/METAL/METALVENT002A.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/rp_redemption_dwrp/c749_-10223_-2296"
+	}
+}

@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/maps/rp_doctorwhouniverse_beta2/cubic/nature/water_raxa_10301_-3139_-7071.vmt"
+	"insert"
+	{
+		"$waterdepth"		"256"
+	}
+}

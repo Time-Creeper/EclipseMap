@@ -1,0 +1,11 @@
+"UnlitGeneric"
+{
+	"$basetexture" "cubic/nature/lava2"
+	"$surfaceprop" "slime"
+	"%compileSlime" 1
+	"$bottommaterial" "cubic/nature/lava2b"
+	"$fogenable" 1
+	"$fogcolor" "{255 141 25}"
+	"$fogstart" 0.1
+	"$fogend" 0.2
+}

@@ -1,0 +1,22 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "cubic/planets/gallifrey_clouds"
+	"$translucent" 1
+	"$model" 1
+	"$lightwarptexture" "cubic/planets/lightwarps/terra_lightwarp"
+	
+	"$phong" 1
+	"$phongexponent" 16
+	"$phongboost" 5
+	"$phongfresnelranges" "[0 0 0]"
+		
+			"Proxies"
+	{
+		"TextureScroll"
+		{
+			"texturescrollvar" "$basetexturetransform"
+			"texturescrollrate" 0.001
+			"texturescrollangle" 0
+		}
+	}
+}

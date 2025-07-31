@@ -1,0 +1,22 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "cubic/planets/eltu_clouds"
+	"$translucent" 1
+	"$model" 1
+	"$lightwarptexture" "cubic/planets/lightwarps/dead_lightwarp"
+	
+	"$phong" 1
+	"$phongexponent" 16
+	"$phongboost" 5
+	"$phongfresnelranges" "[0 0 0]"
+		
+			"Proxies"
+	{
+		"TextureScroll"
+		{
+			"texturescrollvar" "$basetexturetransform"
+			"texturescrollrate" 0.005
+			"texturescrollangle" 0
+		}
+	}
+}

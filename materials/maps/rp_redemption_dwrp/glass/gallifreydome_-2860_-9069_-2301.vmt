@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/GLASS/GALLIFREYDOME.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/rp_redemption_dwrp/c-2860_-9069_-2301"
+	}
+}

@@ -1,0 +1,7 @@
+"UnlitGeneric"
+ {
+ "$basetexture" "skybox/stars_rt"
+ "$hdrbasetexture" "skybox/stars_rt" 
+ "$nofog" "1"
+ "$ignorez" "1"
+ }

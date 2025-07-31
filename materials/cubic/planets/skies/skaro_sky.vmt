@@ -1,0 +1,8 @@
+"UnlitGeneric"
+{
+	"$basetexture"	"cubic/planets/skies/skaro_sky"
+	"$translucent"	1
+ 	"$nodecal" 1 
+	"$additive" 1
+	"$nocull" 1
+}

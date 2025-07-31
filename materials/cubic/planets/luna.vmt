@@ -1,0 +1,11 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "cubic/planets/luna_diff" 
+	"$bumpmap" "cubic/planets/luna_bump"
+	"$model" 1
+	"$lightwarptexture" "cubic/planets/lightwarps/planet_lightwarp"
+	"$phong" 1
+	"$phongexponent" 16
+	"$phongboost" 5
+	"$phongfresnelranges" "[0 0 0]"		
+}

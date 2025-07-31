@@ -1,0 +1,5 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "doctorwho/earth/unitpc"
+	"$translucent" 1
+}

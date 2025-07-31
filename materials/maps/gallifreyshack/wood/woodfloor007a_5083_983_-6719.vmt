@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/WOOD/WOODFLOOR007A.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/gallifreyshack/c5083_983_-6719"
+	}
+}

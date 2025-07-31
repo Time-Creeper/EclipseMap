@@ -1,0 +1,25 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "cubic/planets/trenzalore_diff"
+	"$bumpmap" "cubic/planets/trenzalore_bump"
+	"$model" 1
+	"$lightwarptexture" "cubic/planets/lightwarps/planet_lightwarp"
+	
+	"$phong" 1
+	"$phongexponent" 16
+	"$phongboost" 5
+	"$phongfresnelranges" "[0 0 0]"
+	
+	"$selfillum" 1
+	"$selifillumtint" "[2 1 0]"
+		
+			"Proxies"
+	{
+		"TextureScroll"
+		{
+			"texturescrollvar" "$basetexturetransform"
+			"texturescrollrate" 0.005
+			"texturescrollangle" 0
+		}
+	}
+}

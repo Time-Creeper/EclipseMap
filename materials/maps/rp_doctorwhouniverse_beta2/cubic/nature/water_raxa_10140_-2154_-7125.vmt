@@ -1,0 +1,11 @@
+"patch"
+{
+	"include"		"materials/CUBIC/NATURE/WATER_RAXA.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/rp_doctorwhouniverse_beta2/c10140_-2154_-7125"
+		"Proxies"
+		{
+		}
+	}
+}

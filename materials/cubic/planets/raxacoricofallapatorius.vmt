@@ -1,0 +1,25 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "cubic/planets/raxacoricofallapatorius_diff"
+	"$bumpmap" "cubic/planets/raxacoricofallapatorius_bump"
+	"$model" 1
+	"$lightwarptexture" "cubic/planets/lightwarps/terra_lightwarp"
+	
+	"$phong" 1
+	"$phongexponent" 16
+	"$phongboost" 5
+	"$phongfresnelranges" "[0.5 0.5 0.5]"
+	
+	"$selfillum" 1
+	"$selifillumtint" "[2 1 0]"
+		
+			"Proxies"
+	{
+		"TextureScroll"
+		{
+			"texturescrollvar" "$basetexturetransform"
+			"texturescrollrate" 0.005
+			"texturescrollangle" 0
+		}
+	}
+}

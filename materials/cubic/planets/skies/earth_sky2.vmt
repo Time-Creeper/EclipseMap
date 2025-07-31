@@ -1,0 +1,7 @@
+"UnlitGeneric"
+{
+	"$basetexture"	"cubic/planets/blue"
+	"$translucent"	1
+ 	"$nodecal" 1 
+	"$additive" 1
+}

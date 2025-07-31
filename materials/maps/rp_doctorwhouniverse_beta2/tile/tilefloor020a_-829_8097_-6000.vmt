@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/TILE/TILEFLOOR020A.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/rp_doctorwhouniverse_beta2/c-829_8097_-6000"
+	}
+}

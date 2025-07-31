@@ -1,0 +1,13 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "cubic/planets/blue"
+	"$translucent" 1
+	"$additive" 1
+	"$model" 1
+	"$lightwarptexture" "cubic/planets/lightwarps/terra_lightwarp"
+	
+	"$phong" 1
+	"$phongexponent" 16
+	"$phongboost" 5
+	"$phongfresnelranges" "[0 0 0]"
+}

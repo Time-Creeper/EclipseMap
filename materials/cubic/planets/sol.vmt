@@ -1,0 +1,5 @@
+"UnlitGeneric" {
+	"$basetexture" "cubic/planets/sol.vtf"
+	"$nocull" 1
+	"$model" 1
+}

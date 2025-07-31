@@ -1,0 +1,7 @@
+"LightmappedGeneric"
+{
+	// Original shader: BaseTimesLightmap
+	"$basetexture" "hl2_beta/metal/metalwall054f"
+	"$surfaceprop" "metal"
+	"%keywords" "airexchange,combine,hl2_beta"
+}

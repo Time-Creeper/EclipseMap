@@ -1,0 +1,8 @@
+"VertexLitGeneric"
+{
+	$basetexture "brun/box/glass"
+	$alpha "1"
+	$envmap "brun/box/environment"
+	$envmaptint "[0.5 0.5 0.5]"
+	$translucent "1"
+}
