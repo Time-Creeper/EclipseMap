@@ -1,0 +1,121 @@
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading C:\Users\Administrator\Documents\GitHub\EclipseMap\Decompiled Map Files\rp_EclipseGaming_dwrp_01_d.vmf
+Error! Variable "%keywords" is multiply defined in material "glass/glassblock001a"!
+Patching WVT material: maps/rp_eclipsegaming_dwrp_01_d/cubic/nature/blendmarssand2_wvt_patch
+Patching WVT material: maps/rp_eclipsegaming_dwrp_01_d/nature/blenddirtgrass001a_wvt_patch
+Patching WVT material: maps/rp_eclipsegaming_dwrp_01_d/nature/blendrockdirt002a_wvt_patch
+Patching WVT material: maps/rp_eclipsegaming_dwrp_01_d/nature/blendrockdirt006a_wvt_patch
+Patching WVT material: maps/rp_eclipsegaming_dwrp_01_d/nature/blendmuddirt001b_wvt_patch
+Patching WVT material: maps/rp_eclipsegaming_dwrp_01_d/cubic/nature/blendrockmoon_wvt_patch
+Patching WVT material: maps/rp_eclipsegaming_dwrp_01_d/nature/blenddebris002a_wvt_patch
+fixing up env_cubemap materials on brush sides...
+ProcessBlock_Thread: 0...1...2...3...4...5...6...7...8...9...10 (0)
+ProcessBlock_Thread: 0...1...2...3...4...5...6...7...8...9...10 (0)
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 1962 detail faces...done (1)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\Administrator\Documents\GitHub\EclipseMap\Decompiled Map Files\rp_EclipseGaming_dwrp_01_d.prt...
+Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/stars_*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/stars_*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+WARNING: Map using power 4 displacements, terrain physics cannot be compressed, map will need additional memory and CPU.
+done (1) (2966084 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 4070 texinfos to 1797
+Reduced 381 texdatas to 302 (23822 bytes to 19640)
+Writing C:\Users\Administrator\Documents\GitHub\EclipseMap\Decompiled Map Files\rp_EclipseGaming_dwrp_01_d.bsp
+6 seconds elapsed
+
+
+
+16 threads
+reading c:\users\administrator\documents\github\eclipsemap\decompiled map files\rp_EclipseGaming_dwrp_01_d.bsp
+reading c:\users\administrator\documents\github\eclipsemap\decompiled map files\rp_EclipseGaming_dwrp_01_d.prt
+1239 portalclusters
+2940 numportals
+BasePortalVis:       0...1...2...3...4...5...6...7...8...9...10 (0)
+PortalFlow:          0...1...2...3...4...5..
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading C:\Users\Administrator\Documents\GitHub\EclipseMap\Decompiled Map Files\rp_EclipseGaming_dwrp_01_d.vmf
+Error! Variable "%keywords" is multiply defined in material "glass/glassblock001a"!
+Patching WVT material: maps/rp_eclipsegaming_dwrp_01_d/cubic/nature/blendmarssand2_wvt_patch
+Patching WVT material: maps/rp_eclipsegaming_dwrp_01_d/nature/blenddirtgrass001a_wvt_patch
+Patching WVT material: maps/rp_eclipsegaming_dwrp_01_d/nature/blendrockdirt002a_wvt_patch
+Patching WVT material: maps/rp_eclipsegaming_dwrp_01_d/nature/blendrockdirt006a_wvt_patch
+Patching WVT material: maps/rp_eclipsegaming_dwrp_01_d/nature/blendmuddirt001b_wvt_patch
+Patching WVT material: maps/rp_eclipsegaming_dwrp_01_d/cubic/nature/blendrockmoon_wvt_patch
+Patching WVT material: maps/rp_eclipsegaming_dwrp_01_d/nature/blenddebris002a_wvt_patch
+fixing up env_cubemap materials on brush sides...
+ProcessBlock_Thread: 0...1...2...3...4...5...6...7...8...9...10 (0)
+ProcessBlock_Thread: 0...1...2...3...4...5...6...7...8...9...10 (0)
+Processing areas...done (0)
+Building Faces...done (1)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 1962 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (2)
+writing C:\Users\Administrator\Documents\GitHub\EclipseMap\Decompiled Map Files\rp_EclipseGaming_dwrp_01_d.prt...
+Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/stars_*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/stars_*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+WARNING: Map using power 4 displacements, terrain physics cannot be compressed, map will need additional memory and CPU.
+done (3) (2966084 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 4070 texinfos to 1797
+Reduced 381 texdatas to 302 (23822 bytes to 19640)
+.Writing C:\Users\Administrator\Documents\GitHub\EclipseMap\Decompiled Map Files\rp_EclipseGaming_dwrp_01_d.bsp
+22 seconds elapsed
+
+
+
+16 threads
+reading c:\users\administrator\documents\github\eclipsemap\decompiled map files\rp_EclipseGaming_dwrp_01_d.bsp
+reading c:\users\administrator\documents\github\eclipsemap\decompiled map files\rp_EclipseGaming_dwrp_01_d.prt
+1239 portalclusters
+2940 numportals
+BasePortalVis:       0...1...2...3...4...5...6...7...8...9...10 (0)
+Optimized: 6001 visible clusters (0.40%)
+Total clusters visible: 1500046
+Average clusters visible: 1210
+Building PAS...
+Average clusters audible: 1238
+visdatasize:392446  compressed from 396480
+writing c:\users\administrator\documents\github\eclipsemap\decompiled map files\rp_EclipseGaming_dwrp_01_d.bsp
+0 seconds elapsed
+6...7...8...9...
