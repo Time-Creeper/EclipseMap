@@ -1,7 +1,0 @@
-"LightmappedGeneric"
-{
-	"$basetexture"		"cubic/nature/mars_dirt9"
-	"%tooltexture"		"cubic/nature/blendmarssand_tooltexture"
-	"$surfaceprop"		"gravel"
-	"%keywords"		"cubic"
-}

@@ -1,8 +1,0 @@
-"patch"
-{
-	"include"		"materials/METAL/CITADEL_METALWALL101B.vmt"
-	"replace"
-	{
-		"$envmap"		"maps/rp_redemption_dwrp/c1376_-11045_-2296"
-	}
-}

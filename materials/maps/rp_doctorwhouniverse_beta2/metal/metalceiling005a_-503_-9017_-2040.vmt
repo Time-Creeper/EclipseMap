@@ -1,8 +1,0 @@
-"patch"
-{
-	"include"		"materials/METAL/METALCEILING005A.vmt"
-	"replace"
-	{
-		"$envmap"		"maps/rp_doctorwhouniverse_beta2/c-503_-9017_-2040"
-	}
-}

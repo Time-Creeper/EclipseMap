@@ -1,9 +1,0 @@
-"patch"
-{
-	"include"		"materials/GLASS/OFFWNDWB.vmt"
-	"replace"
-	{
-		"$envmap"		"maps/rp_redemption_dwrp/c99_-8939_-2296"
-		"$crackmaterial"		"maps/rp_redemption_dwrp/glass/glasswindowbreak070b_99_-8939_-2296"
-	}
-}

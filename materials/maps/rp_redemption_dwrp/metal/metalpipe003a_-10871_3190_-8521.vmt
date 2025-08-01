@@ -1,8 +1,0 @@
-"patch"
-{
-	"include"		"materials/METAL/METALPIPE003A.vmt"
-	"replace"
-	{
-		"$envmap"		"maps/rp_redemption_dwrp/c-10871_3190_-8521"
-	}
-}

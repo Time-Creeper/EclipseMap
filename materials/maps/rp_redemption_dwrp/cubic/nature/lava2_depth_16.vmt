@@ -1,8 +1,0 @@
-"patch"
-{
-	"include"		"materials/cubic/nature/lava2.vmt"
-	"insert"
-	{
-		"$waterdepth"		"16"
-	}
-}

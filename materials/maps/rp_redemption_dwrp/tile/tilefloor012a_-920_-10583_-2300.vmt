@@ -1,8 +1,0 @@
-"patch"
-{
-	"include"		"materials/TILE/TILEFLOOR012A.vmt"
-	"replace"
-	{
-		"$envmap"		"maps/rp_redemption_dwrp/c-920_-10583_-2300"
-	}
-}

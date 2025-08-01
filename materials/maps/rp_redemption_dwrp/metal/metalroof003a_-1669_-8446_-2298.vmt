@@ -1,8 +1,0 @@
-"patch"
-{
-	"include"		"materials/METAL/METALROOF003A.vmt"
-	"replace"
-	{
-		"$envmap"		"maps/rp_redemption_dwrp/c-1669_-8446_-2298"
-	}
-}

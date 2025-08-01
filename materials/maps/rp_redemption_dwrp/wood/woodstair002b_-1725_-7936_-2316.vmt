@@ -1,8 +1,0 @@
-"patch"
-{
-	"include"		"materials/WOOD/WOODSTAIR002B.vmt"
-	"replace"
-	{
-		"$envmap"		"maps/rp_redemption_dwrp/c-1725_-7936_-2316"
-	}
-}

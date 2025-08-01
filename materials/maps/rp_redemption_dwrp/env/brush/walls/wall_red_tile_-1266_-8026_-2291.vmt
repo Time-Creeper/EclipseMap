@@ -1,8 +1,0 @@
-"patch"
-{
-	"include"		"materials/ENV/BRUSH/WALLS/WALL_RED_TILE.vmt"
-	"replace"
-	{
-		"$envmap"		"maps/rp_redemption_dwrp/c-1266_-8026_-2291"
-	}
-}

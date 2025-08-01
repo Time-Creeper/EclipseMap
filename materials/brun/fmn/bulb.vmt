@@ -1,6 +1,0 @@
-"VertexLitGeneric"
-{
-	$basetexture "brun/box/bulb"
-	$selfillummask "brun/box/white"
-	$selfillum 1
-}

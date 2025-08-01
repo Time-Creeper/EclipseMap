@@ -1,8 +1,0 @@
-"patch"
-{
-	"include"		"materials/CONCRETE/CONCRETEFLOOR005A.vmt"
-	"replace"
-	{
-		"$envmap"		"maps/rp_redemption_dwrp/c11106_10656_-4286"
-	}
-}

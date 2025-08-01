@@ -1,8 +1,0 @@
-"patch"
-{
-	"include"		"materials/SGTSICKTEXTURES/BK_WALLEXT_02.vmt"
-	"replace"
-	{
-		"$envmap"		"maps/rp_redemption_dwrp/c-420_-7688_-2268"
-	}
-}

@@ -1,7 +1,0 @@
-"VertexLitGeneric"
-{
-	$basetexture "brun/box/doorsign"
-	$envmap "brun/box/environment"
-	$envmaptint "[0.2 0.2 0.2]"
-	$surfaceprop "Glass"
-}

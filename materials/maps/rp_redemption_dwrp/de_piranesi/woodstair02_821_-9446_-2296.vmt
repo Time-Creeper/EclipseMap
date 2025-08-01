@@ -1,8 +1,0 @@
-"patch"
-{
-	"include"		"materials/DE_PIRANESI/WOODSTAIR02.vmt"
-	"replace"
-	{
-		"$envmap"		"maps/rp_redemption_dwrp/c821_-9446_-2296"
-	}
-}

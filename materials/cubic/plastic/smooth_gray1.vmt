@@ -1,0 +1,8 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "cubic/plastic/smooth_gray1"
+	"$bumpmap" "cubic/plastic/smooth_normal"
+	"%keywords" "cubic"
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[ .05 .05 .05 ]"
+}

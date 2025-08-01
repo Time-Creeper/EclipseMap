@@ -1,6 +1,0 @@
-"LightmappedGeneric"
-{
-	"$basetexture" "cubic/etc/Gallifreydome"
-	"$translucent" 1
-	"$surfaceprop" "glass"
-}
