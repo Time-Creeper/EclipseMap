@@ -118,4 +118,1522 @@ Average clusters audible: 1238
 visdatasize:392446  compressed from 396480
 writing c:\users\administrator\documents\github\eclipsemap\decompiled map files\rp_EclipseGaming_dwrp_01_d.bsp
 0 seconds elapsed
-6...7...8...9...
+6...7...8...9...10 (18846)
+Optimized: 294 visible clusters (0.02%)
+Total clusters visible: 1460669
+Average clusters visible: 1178
+Building PAS...
+Average clusters audible: 1227
+visdatasize:390159  compressed from 396480
+writing c:\users\administrator\documents\github\eclipsemap\decompiled map files\rp_EclipseGaming_dwrp_01_d.bsp
+5 hours, 14 minutes, 6 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading C:\Users\Administrator\Documents\GitHub\EclipseMap\Decompiled Map Files\rp_EclipseGaming_dwrp_01_d.vmf
+Error! Variable "%keywords" is multiply defined in material "glass/glassblock001a"!
+Patching WVT material: maps/rp_eclipsegaming_dwrp_01_d/cubic/nature/blendmarssand2_wvt_patch
+Patching WVT material: maps/rp_eclipsegaming_dwrp_01_d/nature/blenddirtgrass001a_wvt_patch
+Patching WVT material: maps/rp_eclipsegaming_dwrp_01_d/nature/blendrockdirt002a_wvt_patch
+Patching WVT material: maps/rp_eclipsegaming_dwrp_01_d/nature/blendrockdirt006a_wvt_patch
+Patching WVT material: maps/rp_eclipsegaming_dwrp_01_d/nature/blendmuddirt001b_wvt_patch
+Patching WVT material: maps/rp_eclipsegaming_dwrp_01_d/cubic/nature/blendrockmoon_wvt_patch
+Patching WVT material: maps/rp_eclipsegaming_dwrp_01_d/nature/blendtoxictoxic004a_wvt_patch
+fixing up env_cubemap materials on brush sides...
+ProcessBlock_Thread: 0...1...2...3...4...5...6...7...8...9...10 (0)
+ProcessBlock_Thread: 0...1...2...3...4...5...6...7...8...9...10 (1)
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 1426 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\Administrator\Documents\GitHub\EclipseMap\Decompiled Map Files\rp_EclipseGaming_dwrp_01_d.prt...
+Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/stars_*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/stars_*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+WARNING: Map using power 4 displacements, terrain physics cannot be compressed, map will need additional memory and CPU.
+done (1) (2685662 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 3390 texinfos to 1404
+Reduced 360 texdatas to 284 (22486 bytes to 18550)
+Writing C:\Users\Administrator\Documents\GitHub\EclipseMap\Decompiled Map Files\rp_EclipseGaming_dwrp_01_d.bsp
+5 seconds elapsed
+
+
+
+16 threads
+reading c:\users\administrator\documents\github\eclipsemap\decompiled map files\rp_EclipseGaming_dwrp_01_d.bsp
+reading c:\users\administrator\documents\github\eclipsemap\decompiled map files\rp_EclipseGaming_dwrp_01_d.prt
+1282 portalclusters
+3094 numportals
+BasePortalVis:       0...1...2...3...4...5...6...7...8...9...10 (0)
+Optimized: 6089 visible clusters (0.38%)
+Total clusters visible: 1607623
+Average clusters visible: 1253
+Building PAS...
+Average clusters audible: 1281
+visdatasize:421479  compressed from 430752
+writing c:\users\administrator\documents\github\eclipsemap\decompiled map files\rp_EclipseGaming_dwrp_01_d.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading C:\Users\Administrator\Documents\GitHub\EclipseMap\Decompiled Map Files\rp_EclipseGaming_dwrp_01_d.vmf
+Error! Variable "%keywords" is multiply defined in material "glass/glassblock001a"!
+Patching WVT material: maps/rp_eclipsegaming_dwrp_01_d/cubic/nature/blendmarssand2_wvt_patch
+Patching WVT material: maps/rp_eclipsegaming_dwrp_01_d/nature/blenddirtgrass001a_wvt_patch
+Patching WVT material: maps/rp_eclipsegaming_dwrp_01_d/nature/blendrockdirt002a_wvt_patch
+Patching WVT material: maps/rp_eclipsegaming_dwrp_01_d/nature/blendrockdirt006a_wvt_patch
+Patching WVT material: maps/rp_eclipsegaming_dwrp_01_d/nature/blendmuddirt001b_wvt_patch
+Patching WVT material: maps/rp_eclipsegaming_dwrp_01_d/cubic/nature/blendrockmoon_wvt_patch
+Patching WVT material: maps/rp_eclipsegaming_dwrp_01_d/nature/blendtoxictoxic004a_wvt_patch
+fixing up env_cubemap materials on brush sides...
+ProcessBlock_Thread: 0...1...2...3...4...5...6...7...8...9...10 (0)
+ProcessBlock_Thread: 0...1...2...3...4...5...6...7...8...9...10 (0)
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 1426 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\Administrator\Documents\GitHub\EclipseMap\Decompiled Map Files\rp_EclipseGaming_dwrp_01_d.prt...
+Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/stars_*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/stars_*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+WARNING: Map using power 4 displacements, terrain physics cannot be compressed, map will need additional memory and CPU.
+done (0) (2683566 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 3384 texinfos to 1404
+Reduced 360 texdatas to 284 (22486 bytes to 18550)
+Writing C:\Users\Administrator\Documents\GitHub\EclipseMap\Decompiled Map Files\rp_EclipseGaming_dwrp_01_d.bsp
+4 seconds elapsed
+
+
+
+16 threads
+reading c:\users\administrator\documents\github\eclipsemap\decompiled map files\rp_EclipseGaming_dwrp_01_d.bsp
+reading c:\users\administrator\documents\github\eclipsemap\decompiled map files\rp_EclipseGaming_dwrp_01_d.prt
+1282 portalclusters
+3103 numportals
+BasePortalVis:       0...1...2...3...4...5...6...7...8...9...10 (0)
+Optimized: 6089 visible clusters (0.38%)
+Total clusters visible: 1607631
+Average clusters visible: 1254
+Building PAS...
+Average clusters audible: 1281
+visdatasize:421479  compressed from 430752
+writing c:\users\administrator\documents\github\eclipsemap\decompiled map files\rp_EclipseGaming_dwrp_01_d.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[51 texlights parsed from 'lights.rad']
+Loading c:\users\administrator\documents\github\eclipsemap\decompiled map files\rp_EclipseGaming_dwrp_01_d.bsp
+PREP OK
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ 6656.00 6656.09 -4358.37
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ 6656.00 8704.00 -4358.37
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ 8704.00 6656.09 -4358.37
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ 8704.00 8704.00 -4358.37
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ 6656.00 10751.90 -4358.37
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ 8704.00 10751.90 -4358.37
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ 4608.00 8704.00 -4358.37
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ 4864.00 7168.06 -4358.37
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ 10752.00 6656.09 -4358.37
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ 10752.00 8704.00 -4358.37
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ 8704.00 4608.16 -4358.37
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ 7168.00 4864.16 -4358.37
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ 5888.03 5888.09 -4358.37
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ 10240.00 4864.16 -4358.37
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ 10752.00 10751.90 -4358.37
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ 4864.00 10240.00 -4358.37
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -2048.00 -9728.00 -2373.07
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -512.00 -11263.90 -2373.07
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -512.00 -9728.00 -2373.07
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -2048.00 -8192.05 -2373.07
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -512.00 -8192.05 -2373.07
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -3584.00 -9728.00 -2373.07
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -3392.00 -10880.00 -2373.07
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ 1024.00 -11263.90 -2373.07
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ 1024.00 -9728.00 -2373.07
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -512.00 -12799.90 -2373.07
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -1664.00 -12607.90 -2373.07
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -2624.00 -11839.90 -2373.07
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ 640.00 -12607.90 -2373.07
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ 1024.00 -8192.05 -2373.07
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -3392.00 -8576.03 -2373.07
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ 5120.00 5120.00 -4352.00
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -9472.00 8960.00 6635.00
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -10984.00 60.00 -5248.27
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -11924.00 812.07 -5248.27
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -12676.00 1751.97 -5248.27
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -11360.00 1376.05 -5248.27
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -12864.00 2880.00 -5248.27
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -12676.00 4008.01 -5248.27
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -11360.00 4384.00 -5248.27
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -9856.00 4384.00 -5248.27
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -9856.00 2880.00 -5248.27
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -9856.00 -128.00 -5248.27
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -9856.00 1376.05 -5248.27
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -8352.00 2880.00 -5248.27
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -8352.00 4384.00 -5248.27
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -8352.00 1376.05 -5248.27
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -8728.00 60.00 -5248.27
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -12544.00 191.90 -5248.20
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ 7744.00 -5056.00 -7182.00
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -7096.00 -7608.00 82.88
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -2048.00 -11263.90 -2373.07
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -512.00 -11263.90 -2373.07
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -2048.00 -11263.90 -2373.07
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -1344.00 -10432.00 -2373.07
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -3200.00 -12416.00 -2373.00
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -11360.00 2880.00 -5248.27
+BuildFacelights:     0...1...2...3...4...5...6...7...8...9...10 (2)
+BuildVisLeafs:       0...1...2...3...4...5...6...7...8...9...10 (2)
+transfers 2487442, max 1846
+GatherLight:         0...1...2...3...4...5...6...7...8...9...10 (0)
+GatherLight:         0...1...2...3...4...5...6...7...8...9...10 (0)
+GatherLight:         0...1...2...3...4...5...6...7...8...9...10 (0)
+GatherLight:         0...1...2...3...4...5...6...7...8...9...10 (0)
+GatherLight:         0...1...2...3...4...5...6...7...8...9...10 (0)
+GatherLight:         0...1...2...3...4...5...6...7...8...9...10 (0)
+GatherLight:         0...1...2...3...4...5...6...7...8...9...10 (0)
+GatherLight:         0...1...2...3...4...5...6...7...8...9...10 (0)
+GatherLight:         0...1...2...3...4...5...6...7...8...9...10 (0)
+GatherLight:         0...1...2...3...4...5...6...7...8...9...10 (0)
+Build Patch/Sample Hash Table(s).....Done<0.0295 sec>
+FinalLightFace:      0...1...2...3...4...5...6...7...8...9...10 (1)
+FinalLightFace Done
+Computing detail prop lighting : 0...1...2...3...4...5...6...7...8...9...10
+16 of 24 (66% of) surface lights went in leaf ambient cubes.
+ThreadComputeLeafAmbient: 0...1...2...3...4...5...6...7...8...9...10 (15)
+Writing leaf ambient...done
+Ready to Finish
+Writing c:\users\administrator\documents\github\eclipsemap\decompiled map files\rp_EclipseGaming_dwrp_01_d.bsp
+24 seconds elapsed
+
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading C:\Users\Administrator\Documents\GitHub\EclipseMap\Decompiled Map Files\rp_EclipseGaming_dwrp_01_d.vmf
+Error! Variable "%keywords" is multiply defined in material "glass/glassblock001a"!
+Patching WVT material: maps/rp_eclipsegaming_dwrp_01_d/cubic/nature/blendmarssand2_wvt_patch
+Patching WVT material: maps/rp_eclipsegaming_dwrp_01_d/nature/blenddirtgrass001a_wvt_patch
+Patching WVT material: maps/rp_eclipsegaming_dwrp_01_d/nature/blendrockdirt002a_wvt_patch
+Patching WVT material: maps/rp_eclipsegaming_dwrp_01_d/nature/blendrockdirt006a_wvt_patch
+Patching WVT material: maps/rp_eclipsegaming_dwrp_01_d/nature/blendmuddirt001b_wvt_patch
+Patching WVT material: maps/rp_eclipsegaming_dwrp_01_d/cubic/nature/blendrockmoon_wvt_patch
+Patching WVT material: maps/rp_eclipsegaming_dwrp_01_d/nature/blendtoxictoxic004a_wvt_patch
+fixing up env_cubemap materials on brush sides...
+ProcessBlock_Thread: 0...1...2...3...4...5...6...7...8...9...10 (1)
+ProcessBlock_Thread: 0...1...2...3...4...5...6...7...8...9...10 (0)
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 1426 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\Administrator\Documents\GitHub\EclipseMap\Decompiled Map Files\rp_EclipseGaming_dwrp_01_d.prt...
+Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/stars_*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/stars_*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+WARNING: Map using power 4 displacements, terrain physics cannot be compressed, map will need additional memory and CPU.
+done (0) (2683566 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 3384 texinfos to 1404
+Reduced 360 texdatas to 284 (22486 bytes to 18550)
+Writing C:\Users\Administrator\Documents\GitHub\EclipseMap\Decompiled Map Files\rp_EclipseGaming_dwrp_01_d.bsp
+6 seconds elapsed
+
+
+
+16 threads
+reading c:\users\administrator\documents\github\eclipsemap\decompiled map files\rp_EclipseGaming_dwrp_01_d.bsp
+reading c:\users\administrator\documents\github\eclipsemap\decompiled map files\rp_EclipseGaming_dwrp_01_d.prt
+1282 portalclusters
+3103 numportals
+BasePortalVis:       0...1...2...3...4...5...6...7...8...9...10 (0)
+Optimized: 6089 visible clusters (0.38%)
+Total clusters visible: 1607631
+Average clusters visible: 1254
+Building PAS...
+Average clusters audible: 1281
+visdatasize:421479  compressed from 430752
+writing c:\users\administrator\documents\github\eclipsemap\decompiled map files\rp_EclipseGaming_dwrp_01_d.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[51 texlights parsed from 'lights.rad']
+Loading c:\users\administrator\documents\github\eclipsemap\decompiled map files\rp_EclipseGaming_dwrp_01_d.bsp
+PREP OK
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ 6656.00 6656.09 -4358.37
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ 6656.00 8704.00 -4358.37
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ 8704.00 6656.09 -4358.37
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ 8704.00 8704.00 -4358.37
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ 6656.00 10751.90 -4358.37
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ 8704.00 10751.90 -4358.37
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ 4608.00 8704.00 -4358.37
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ 4864.00 7168.06 -4358.37
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ 10752.00 6656.09 -4358.37
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ 10752.00 8704.00 -4358.37
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ 8704.00 4608.16 -4358.37
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ 7168.00 4864.16 -4358.37
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ 5888.03 5888.09 -4358.37
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ 10240.00 4864.16 -4358.37
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ 10752.00 10751.90 -4358.37
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ 4864.00 10240.00 -4358.37
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -2048.00 -9728.00 -2373.07
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -512.00 -11263.90 -2373.07
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -512.00 -9728.00 -2373.07
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -2048.00 -8192.05 -2373.07
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -512.00 -8192.05 -2373.07
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -3584.00 -9728.00 -2373.07
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -3392.00 -10880.00 -2373.07
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ 1024.00 -11263.90 -2373.07
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ 1024.00 -9728.00 -2373.07
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -512.00 -12799.90 -2373.07
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -1664.00 -12607.90 -2373.07
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -2624.00 -11839.90 -2373.07
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ 640.00 -12607.90 -2373.07
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ 1024.00 -8192.05 -2373.07
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -3392.00 -8576.03 -2373.07
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ 5120.00 5120.00 -4352.00
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -9472.00 8960.00 6635.00
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -10984.00 60.00 -5248.27
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -11924.00 812.07 -5248.27
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -12676.00 1751.97 -5248.27
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -11360.00 1376.05 -5248.27
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -12864.00 2880.00 -5248.27
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -12676.00 4008.01 -5248.27
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -11360.00 4384.00 -5248.27
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -9856.00 4384.00 -5248.27
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -9856.00 2880.00 -5248.27
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -9856.00 -128.00 -5248.27
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -9856.00 1376.05 -5248.27
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -8352.00 2880.00 -5248.27
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -8352.00 4384.00 -5248.27
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -8352.00 1376.05 -5248.27
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -8728.00 60.00 -5248.27
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -12544.00 191.90 -5248.20
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ 7744.00 -5056.00 -7182.00
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -7096.00 -7608.00 82.88
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -2048.00 -11263.90 -2373.07
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -512.00 -11263.90 -2373.07
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -2048.00 -11263.90 -2373.07
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -1344.00 -10432.00 -2373.07
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -3200.00 -12416.00 -2373.00
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -11360.00 2880.00 -5248.27
+BuildFacelights:     0...1...2...3...4...5...6...7...8...9...10 (5)
+BuildVisLeafs:       0...1...2...3...4...5...6...7...8...9...10 (13)
+transfers 9185289, max 1846
+GatherLight:         0...1...2...3...4...5...6...7...8...9...10 (0)
+GatherLight:         0...1...2...3...4...5...6...7...8...9...10 (0)
+GatherLight:         0...1...2...3...4...5...6...7...8...9...10 (0)
+GatherLight:         0...1...2...3...4...5...6...7...8...9...10 (0)
+GatherLight:         0...1...2...3...4...5...6...7...8...9...10 (0)
+GatherLight:         0...1...2...3...4...5...6...7...8...9...10 (0)
+GatherLight:         0...1...2...3...4...5...6...7...8...9...10 (0)
+GatherLight:         0...1...2...3...4...5...6...7...8...9...10 (0)
+GatherLight:         0...1...2...3...4...5...6...7...8...9...10 (0)
+GatherLight:         0...1...2...3...4...5...6...7...8...9...10 (0)
+GatherLight:         0...1...2...3...4...5...6...7...8...9...10 (0)
+GatherLight:         0...1...2...3...4...5...6...7...8...9...10 (0)
+Build Patch/Sample Hash Table(s).....Done<0.0421 sec>
+FinalLightFace:      0...1...2...3...4...5...6...7...8...9...10 (4)
+FinalLightFace Done
+Computing detail prop lighting : 0...1...2...3...4...5...6...7...8...9...10
+152 of 152 (100% of) surface lights went in leaf ambient cubes.
+ThreadComputeLeafAmbient: 0...1...2...3...4...5...6...7...8...9...10 (15)
+Writing leaf ambient...done
+Ready to Finish
+Writing c:\users\administrator\documents\github\eclipsemap\decompiled map files\rp_EclipseGaming_dwrp_01_d.bsp
+44 seconds elapsed
+
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading C:\Users\Administrator\Documents\GitHub\EclipseMap\Decompiled Map Files\rp_EclipseGaming_dwrp_01_d.vmf
+Error! Variable "%keywords" is multiply defined in material "glass/glassblock001a"!
+Patching WVT material: maps/rp_eclipsegaming_dwrp_01_d/cubic/nature/blendmarssand2_wvt_patch
+Patching WVT material: maps/rp_eclipsegaming_dwrp_01_d/nature/blenddirtgrass001a_wvt_patch
+Patching WVT material: maps/rp_eclipsegaming_dwrp_01_d/nature/blendrockdirt002a_wvt_patch
+Patching WVT material: maps/rp_eclipsegaming_dwrp_01_d/nature/blendrockdirt006a_wvt_patch
+Patching WVT material: maps/rp_eclipsegaming_dwrp_01_d/nature/blendmuddirt001b_wvt_patch
+Patching WVT material: maps/rp_eclipsegaming_dwrp_01_d/cubic/nature/blendrockmoon_wvt_patch
+fixing up env_cubemap materials on brush sides...
+ProcessBlock_Thread: 0...1...2...3...4...5...6...7...8...9...10 (0)
+ProcessBlock_Thread: 0...1...2...3...4...5...6...7...8...9...10 (0)
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 1426 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\Administrator\Documents\GitHub\EclipseMap\Decompiled Map Files\rp_EclipseGaming_dwrp_01_d.prt...
+Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/stars_*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/stars_*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+WARNING: Map using power 4 displacements, terrain physics cannot be compressed, map will need additional memory and CPU.
+done (0) (2685016 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 3377 texinfos to 1408
+Reduced 355 texdatas to 280 (22234 bytes to 18279)
+Writing C:\Users\Administrator\Documents\GitHub\EclipseMap\Decompiled Map Files\rp_EclipseGaming_dwrp_01_d.bsp
+4 seconds elapsed
+
+
+
+16 threads
+reading c:\users\administrator\documents\github\eclipsemap\decompiled map files\rp_EclipseGaming_dwrp_01_d.bsp
+reading c:\users\administrator\documents\github\eclipsemap\decompiled map files\rp_EclipseGaming_dwrp_01_d.prt
+1286 portalclusters
+3131 numportals
+BasePortalVis:       0...1...2...3...4...5...6...7...8...9...10 (0)
+Optimized: 6105 visible clusters (0.38%)
+Total clusters visible: 1617759
+Average clusters visible: 1257
+Building PAS...
+Average clusters audible: 1285
+visdatasize:422793  compressed from 432096
+writing c:\users\administrator\documents\github\eclipsemap\decompiled map files\rp_EclipseGaming_dwrp_01_d.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[51 texlights parsed from 'lights.rad']
+Loading c:\users\administrator\documents\github\eclipsemap\decompiled map files\rp_EclipseGaming_dwrp_01_d.bsp
+PREP OK
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ 6656.00 6656.09 -4358.37
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ 6656.00 8704.00 -4358.37
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ 8704.00 6656.09 -4358.37
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ 8704.00 8704.00 -4358.37
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ 6656.00 10751.90 -4358.37
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ 8704.00 10751.90 -4358.37
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ 4608.00 8704.00 -4358.37
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ 4864.00 7168.06 -4358.37
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ 10752.00 6656.09 -4358.37
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ 10752.00 8704.00 -4358.37
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ 8704.00 4608.16 -4358.37
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ 7168.00 4864.16 -4358.37
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ 5888.03 5888.09 -4358.37
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ 10240.00 4864.16 -4358.37
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ 10752.00 10751.90 -4358.37
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ 4864.00 10240.00 -4358.37
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -2048.00 -9728.00 -2373.07
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -512.00 -11263.90 -2373.07
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -512.00 -9728.00 -2373.07
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -2048.00 -8192.05 -2373.07
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -512.00 -8192.05 -2373.07
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -3584.00 -9728.00 -2373.07
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -3392.00 -10880.00 -2373.07
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ 1024.00 -11263.90 -2373.07
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ 1024.00 -9728.00 -2373.07
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -512.00 -12799.90 -2373.07
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -1664.00 -12607.90 -2373.07
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -2624.00 -11839.90 -2373.07
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ 640.00 -12607.90 -2373.07
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ 1024.00 -8192.05 -2373.07
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -3392.00 -8576.03 -2373.07
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ 5120.00 5120.00 -4352.00
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -9472.00 8960.00 6635.00
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -10984.00 60.00 -5248.27
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -11924.00 812.07 -5248.27
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -12676.00 1751.97 -5248.27
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -11360.00 1376.05 -5248.27
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -12864.00 2880.00 -5248.27
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -12676.00 4008.01 -5248.27
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -11360.00 4384.00 -5248.27
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -9856.00 4384.00 -5248.27
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -9856.00 2880.00 -5248.27
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -9856.00 -128.00 -5248.27
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -9856.00 1376.05 -5248.27
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -8352.00 2880.00 -5248.27
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -8352.00 4384.00 -5248.27
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -8352.00 1376.05 -5248.27
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -8728.00 60.00 -5248.27
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -12544.00 191.90 -5248.20
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ 7744.00 -5056.00 -7182.00
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -7096.00 -7608.00 82.88
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -2048.00 -11263.90 -2373.07
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -512.00 -11263.90 -2373.07
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -2048.00 -11263.90 -2373.07
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -1344.00 -10432.00 -2373.07
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -3200.00 -12416.00 -2373.00
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -11360.00 2880.00 -5248.27
+BuildFacelights:     0...1...2...3...4...5...6...7...8...9...10 (4)
+BuildVisLeafs:       0...1...2...3...4...5...6...7...8...9...10 (9)
+transfers 9193144, max 1862
+GatherLight:         0...1...2...3...4...5...6...7...8...9...10 (0)
+GatherLight:         0...1...2...3...4...5...6...7...8...9...10 (0)
+GatherLight:         0...1...2...3...4...5...6...7...8...9...10 (0)
+GatherLight:         0...1...2...3...4...5...6...7...8...9...10 (0)
+GatherLight:         0...1...2...3...4...5...6...7...8...9...10 (0)
+GatherLight:         0...1...2...3...4...5...6...7...8...9...10 (0)
+GatherLight:         0...1...2...3...4...5...6...7...8...9...10 (0)
+GatherLight:         0...1...2...3...4...5...6...7...8...9...10 (0)
+GatherLight:         0...1...2...3...4...5...6...7...8...9...10 (0)
+GatherLight:         0...1...2...3...4...5...6...7...8...9...10 (0)
+GatherLight:         0...1...2...3...4...5...6...7...8...9...10 (0)
+GatherLight:         0...1...2...3...4...5...6...7...8...9...10 (0)
+Build Patch/Sample Hash Table(s).....Done<0.0306 sec>
+FinalLightFace:      0...1...2...3...4...5...6...7...8...9...10 (3)
+FinalLightFace Done
+Computing detail prop lighting : 0...1...2...3...4...5...6...7...8...9...10
+152 of 152 (100% of) surface lights went in leaf ambient cubes.
+ThreadComputeLeafAmbient: 0...1...2...3...4...5...6...7...8...9...10 (14)
+Writing leaf ambient...done
+Ready to Finish
+Writing c:\users\administrator\documents\github\eclipsemap\decompiled map files\rp_EclipseGaming_dwrp_01_d.bsp
+35 seconds elapsed
+
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading C:\Users\Administrator\Documents\GitHub\EclipseMap\Decompiled Map Files\rp_EclipseGaming_dwrp_01_d.vmf
+Error! Variable "%keywords" is multiply defined in material "glass/glassblock001a"!
+Patching WVT material: maps/rp_eclipsegaming_dwrp_01_d/cubic/nature/blendmarssand2_wvt_patch
+Patching WVT material: maps/rp_eclipsegaming_dwrp_01_d/nature/blenddirtgrass001a_wvt_patch
+Patching WVT material: maps/rp_eclipsegaming_dwrp_01_d/nature/blendrockdirt002a_wvt_patch
+Patching WVT material: maps/rp_eclipsegaming_dwrp_01_d/nature/blendrockdirt006a_wvt_patch
+Patching WVT material: maps/rp_eclipsegaming_dwrp_01_d/nature/blendmuddirt001b_wvt_patch
+Patching WVT material: maps/rp_eclipsegaming_dwrp_01_d/cubic/nature/blendrockmoon_wvt_patch
+fixing up env_cubemap materials on brush sides...
+ProcessBlock_Thread: 0...1...2...3...4...5...6...7...8...9...10 (0)
+ProcessBlock_Thread: 0...1...2...3...4...5...6...7...8...9...10 (0)
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 1426 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\Administrator\Documents\GitHub\EclipseMap\Decompiled Map Files\rp_EclipseGaming_dwrp_01_d.prt...
+Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/stars_*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/stars_*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+WARNING: Map using power 4 displacements, terrain physics cannot be compressed, map will need additional memory and CPU.
+done (0) (2685016 bytes)
+Error! To use model "models/props_foliage/tree_slice_chunk03.mdl" with prop_static, it must be compiled with $staticprop!
+Error loading studio model STATIC "models/props_foliage/tree_slice_chunk03.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 3382 texinfos to 1410
+Reduced 358 texdatas to 283 (22448 bytes to 18493)
+Writing C:\Users\Administrator\Documents\GitHub\EclipseMap\Decompiled Map Files\rp_EclipseGaming_dwrp_01_d.bsp
+5 seconds elapsed
+
+
+
+16 threads
+reading c:\users\administrator\documents\github\eclipsemap\decompiled map files\rp_EclipseGaming_dwrp_01_d.bsp
+reading c:\users\administrator\documents\github\eclipsemap\decompiled map files\rp_EclipseGaming_dwrp_01_d.prt
+1286 portalclusters
+3115 numportals
+BasePortalVis:       0...1...2...3...4...5...6...7...8...9...10 (0)
+Optimized: 6097 visible clusters (0.38%)
+Total clusters visible: 1617831
+Average clusters visible: 1258
+Building PAS...
+Average clusters audible: 1285
+visdatasize:422793  compressed from 432096
+writing c:\users\administrator\documents\github\eclipsemap\decompiled map files\rp_EclipseGaming_dwrp_01_d.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[51 texlights parsed from 'lights.rad']
+Loading c:\users\administrator\documents\github\eclipsemap\decompiled map files\rp_EclipseGaming_dwrp_01_d.bsp
+PREP OK
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ 6656.00 6656.09 -4358.37
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ 6656.00 8704.00 -4358.37
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ 8704.00 6656.09 -4358.37
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ 8704.00 8704.00 -4358.37
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ 6656.00 10751.90 -4358.37
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ 8704.00 10751.90 -4358.37
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ 4608.00 8704.00 -4358.37
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ 4864.00 7168.06 -4358.37
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ 10752.00 6656.09 -4358.37
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ 10752.00 8704.00 -4358.37
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ 8704.00 4608.16 -4358.37
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ 7168.00 4864.16 -4358.37
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ 5888.03 5888.09 -4358.37
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ 10240.00 4864.16 -4358.37
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ 10752.00 10751.90 -4358.37
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ 4864.00 10240.00 -4358.37
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -2048.00 -9728.00 -2373.07
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -512.00 -11263.90 -2373.07
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -512.00 -9728.00 -2373.07
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -2048.00 -8192.05 -2373.07
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -512.00 -8192.05 -2373.07
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -3584.00 -9728.00 -2373.07
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -3392.00 -10880.00 -2373.07
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ 1024.00 -11263.90 -2373.07
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ 1024.00 -9728.00 -2373.07
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -512.00 -12799.90 -2373.07
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -1664.00 -12607.90 -2373.07
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -2624.00 -11839.90 -2373.07
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ 640.00 -12607.90 -2373.07
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ 1024.00 -8192.05 -2373.07
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -3392.00 -8576.03 -2373.07
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ 5120.00 5120.00 -4352.00
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -9472.00 8960.00 6635.00
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -10984.00 60.00 -5248.27
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -11924.00 812.07 -5248.27
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -12676.00 1751.97 -5248.27
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -11360.00 1376.05 -5248.27
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -12864.00 2880.00 -5248.27
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -12676.00 4008.01 -5248.27
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -11360.00 4384.00 -5248.27
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -9856.00 4384.00 -5248.27
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -9856.00 2880.00 -5248.27
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -9856.00 -128.00 -5248.27
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -9856.00 1376.05 -5248.27
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -8352.00 2880.00 -5248.27
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -8352.00 4384.00 -5248.27
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -8352.00 1376.05 -5248.27
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -8728.00 60.00 -5248.27
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -12544.00 191.90 -5248.20
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ 7744.00 -5056.00 -7182.00
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -7096.00 -7608.00 82.88
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -2048.00 -11263.90 -2373.07
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -512.00 -11263.90 -2373.07
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -2048.00 -11263.90 -2373.07
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -1344.00 -10432.00 -2373.07
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -3200.00 -12416.00 -2373.00
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -11360.00 2880.00 -5248.27
+BuildFacelights:     0...1...2...3...4...5...6...7...8...9...10 (5)
+BuildVisLeafs:       0...1...2...3...4...5...6...7...8...9...10 (13)
+transfers 9237110, max 1862
+GatherLight:         0...1...2...3...4...5...6...7...8...9...10 (0)
+GatherLight:         0...1...2...3...4...5...6...7...8...9...10 (0)
+GatherLight:         0...1...2...3...4...5...6...7...8...9...10 (0)
+GatherLight:         0...1...2...3...4...5...6...7...8...9...10 (0)
+GatherLight:         0...1...2...3...4...5...6...7...8...9...10 (0)
+GatherLight:         0...1...2...3...4...5...6...7...8...9...10 (0)
+GatherLight:         0...1...2...3...4...5...6...7...8...9...10 (0)
+GatherLight:         0...1...2...3...4...5...6...7...8...9...10 (0)
+GatherLight:         0...1...2...3...4...5...6...7...8...9...10 (0)
+GatherLight:         0...1...2...3...4...5...6...7...8...9...10 (0)
+GatherLight:         0...1...2...3...4...5...6...7...8...9...10 (0)
+GatherLight:         0...1...2...3...4...5...6...7...8...9...10 (1)
+Build Patch/Sample Hash Table(s).....Done<0.0597 sec>
+FinalLightFace:      0...1...2...3...4...5...6...7...8...9...10 (3)
+FinalLightFace Done
+Computing detail prop lighting : 0...1...2...3...4...5...6...7...8...9...10
+152 of 152 (100% of) surface lights went in leaf ambient cubes.
+ThreadComputeLeafAmbient: 0...1...2...3...4...5...6...7...8...9...10 (14)
+Writing leaf ambient...done
+Ready to Finish
+Writing c:\users\administrator\documents\github\eclipsemap\decompiled map files\rp_EclipseGaming_dwrp_01_d.bsp
+43 seconds elapsed
+
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading C:\Users\Administrator\Documents\GitHub\EclipseMap\Decompiled Map Files\rp_EclipseGaming_dwrp_01_d.vmf
+Error! Variable "%keywords" is multiply defined in material "glass/glassblock001a"!
+Patching WVT material: maps/rp_eclipsegaming_dwrp_01_d/cubic/nature/blendmarssand2_wvt_patch
+Patching WVT material: maps/rp_eclipsegaming_dwrp_01_d/nature/blenddirtgrass001a_wvt_patch
+Patching WVT material: maps/rp_eclipsegaming_dwrp_01_d/nature/blendrockdirt002a_wvt_patch
+Patching WVT material: maps/rp_eclipsegaming_dwrp_01_d/nature/blendrockdirt006a_wvt_patch
+Patching WVT material: maps/rp_eclipsegaming_dwrp_01_d/nature/blendmuddirt001b_wvt_patch
+Patching WVT material: maps/rp_eclipsegaming_dwrp_01_d/cubic/nature/blendrockmoon_wvt_patch
+fixing up env_cubemap materials on brush sides...
+ProcessBlock_Thread: 0...1...2...3...4...5...6...7...8...9...10 (0)
+ProcessBlock_Thread: 0...1...2...3...4...5...6...7...8...9...10 (0)
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 1426 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\Administrator\Documents\GitHub\EclipseMap\Decompiled Map Files\rp_EclipseGaming_dwrp_01_d.prt...
+Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/stars_*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/stars_*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+WARNING: Map using power 4 displacements, terrain physics cannot be compressed, map will need additional memory and CPU.
+done (0) (2685381 bytes)
+Error! To use model "models/props_foliage/tree_slice_chunk03.mdl" with prop_static, it must be compiled with $staticprop!
+Error loading studio model STATIC "models/props_foliage/tree_slice_chunk03.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 3381 texinfos to 1409
+Reduced 357 texdatas to 282 (22441 bytes to 18485)
+Writing C:\Users\Administrator\Documents\GitHub\EclipseMap\Decompiled Map Files\rp_EclipseGaming_dwrp_01_d.bsp
+6 seconds elapsed
+
+
+
+16 threads
+reading c:\users\administrator\documents\github\eclipsemap\decompiled map files\rp_EclipseGaming_dwrp_01_d.bsp
+reading c:\users\administrator\documents\github\eclipsemap\decompiled map files\rp_EclipseGaming_dwrp_01_d.prt
+1297 portalclusters
+3158 numportals
+BasePortalVis:       0...1...2...3...4...5...6...7...8...9...10 (0)
+Optimized: 6130 visible clusters (0.37%)
+Total clusters visible: 1645837
+Average clusters visible: 1268
+Building PAS...
+Average clusters audible: 1296
+visdatasize:431626  compressed from 435792
+writing c:\users\administrator\documents\github\eclipsemap\decompiled map files\rp_EclipseGaming_dwrp_01_d.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[51 texlights parsed from 'lights.rad']
+Loading c:\users\administrator\documents\github\eclipsemap\decompiled map files\rp_EclipseGaming_dwrp_01_d.bsp
+PREP OK
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ 6656.00 6656.09 -4358.37
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ 6656.00 8704.00 -4358.37
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ 8704.00 6656.09 -4358.37
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ 8704.00 8704.00 -4358.37
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ 6656.00 10751.90 -4358.37
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ 8704.00 10751.90 -4358.37
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ 4608.00 8704.00 -4358.37
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ 4864.00 7168.06 -4358.37
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ 10752.00 6656.09 -4358.37
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ 10752.00 8704.00 -4358.37
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ 8704.00 4608.16 -4358.37
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ 7168.00 4864.16 -4358.37
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ 5888.03 5888.09 -4358.37
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ 10240.00 4864.16 -4358.37
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ 10752.00 10751.90 -4358.37
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ 4864.00 10240.00 -4358.37
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -2048.00 -9728.00 -2373.07
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -512.00 -11263.90 -2373.07
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -512.00 -9728.00 -2373.07
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -2048.00 -8192.05 -2373.07
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -512.00 -8192.05 -2373.07
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -3584.00 -9728.00 -2373.07
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -3392.00 -10880.00 -2373.07
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ 1024.00 -11263.90 -2373.07
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ 1024.00 -9728.00 -2373.07
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -512.00 -12799.90 -2373.07
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -1664.00 -12607.90 -2373.07
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -2624.00 -11839.90 -2373.07
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ 640.00 -12607.90 -2373.07
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ 1024.00 -8192.05 -2373.07
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -3392.00 -8576.03 -2373.07
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ 5120.00 5120.00 -4352.00
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -9472.00 8960.00 6635.00
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -12864.00 2880.00 -5248.27
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -12676.00 4008.01 -5248.27
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -11360.00 4384.00 -5248.27
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -9856.00 4384.00 -5248.27
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -9856.00 2880.00 -5248.27
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -9856.00 -128.00 -5248.27
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -9856.00 1376.05 -5248.27
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -8352.00 2880.00 -5248.27
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -8352.00 4384.00 -5248.27
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -8352.00 1376.05 -5248.27
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -8728.00 60.00 -5248.27
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ 7744.00 -5056.00 -7182.00
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -7096.00 -7608.00 82.88
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -2048.00 -11263.90 -2373.07
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -512.00 -11263.90 -2373.07
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -2048.00 -11263.90 -2373.07
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -1344.00 -10432.00 -2373.07
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -3200.00 -12416.00 -2373.00
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -11360.00 2880.00 -5248.27
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -12544.00 191.90 -5248.20
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -11360.00 1376.05 -5248.27
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -12676.00 1751.97 -5248.27
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -11924.00 812.07 -5248.27
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -10984.00 60.00 -5248.27
+BuildFacelights:     0...1...2...3...4...5...6...7...8...9...10 (5)
+BuildVisLeafs:       0...1...2...3...4...5...6...7...8...9...10 (11)
+transfers 9298012, max 1862
+GatherLight:         0...1...2...3...4...5...6...7...8...9...10 (0)
+GatherLight:         0...1...2...3...4...5...6...7...8...9...10 (0)
+GatherLight:         0...1...2...3...4...5...6...7...8...9...10 (1)
+GatherLight:         0...1...2...3...4...5...6...7...8...9...10 (0)
+GatherLight:         0...1...2...3...4...5...6...7...8...9...10 (0)
+GatherLight:         0...1...2...3...4...5...6...7...8...9...10 (0)
+GatherLight:         0...1...2...3...4...5...6...7...8...9...10 (0)
+GatherLight:         0...1...2...3...4...5...6...7...8...9...10 (0)
+GatherLight:         0...1...2...3...4...5...6...7...8...9...10 (0)
+GatherLight:         0...1...2...3...4...5...6...7...8...9...10 (0)
+GatherLight:         0...1...2...3...4...5...6...7...8...9...10 (0)
+GatherLight:         0...1...2...3...4...5...6...7...8...9...10 (0)
+Build Patch/Sample Hash Table(s).....Done<0.0455 sec>
+FinalLightFace:      0...1...2...3...4...5...6...7...8...9...10 (3)
+FinalLightFace Done
+Computing detail prop lighting : 0...1...2...3...4...5...6...7...8...9...10
+152 of 152 (100% of) surface lights went in leaf ambient cubes.
+ThreadComputeLeafAmbient: 0...1...2...3...4...5...6...7...8...9...10 (13)
+Writing leaf ambient...done
+Ready to Finish
+Writing c:\users\administrator\documents\github\eclipsemap\decompiled map files\rp_EclipseGaming_dwrp_01_d.bsp
+39 seconds elapsed
+
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading C:\Users\Administrator\Documents\GitHub\EclipseMap\Decompiled Map Files\rp_EclipseGaming_dwrp_01_d.vmf
+Error! Variable "%keywords" is multiply defined in material "glass/glassblock001a"!
+Brush 92174: MAX_MAP_PLANES
+Side 5
+Texture: CONCRETE/CONCRETEWALL001A
+
+
+
+16 threads
+reading c:\users\administrator\documents\github\eclipsemap\decompiled map files\rp_EclipseGaming_dwrp_01_d.bsp
+reading c:\users\administrator\documents\github\eclipsemap\decompiled map files\rp_EclipseGaming_dwrp_01_d.prt
+LoadPortals: couldn't read c:\users\administrator\documents\github\eclipsemap\decompiled map files\rp_EclipseGaming_dwrp_01_d.prt
+
+
+
+[Reading texlights from 'lights.rad']
+[51 texlights parsed from 'lights.rad']
+Loading c:\users\administrator\documents\github\eclipsemap\decompiled map files\rp_EclipseGaming_dwrp_01_d.bsp
+PREP OK
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ 6656.00 6656.09 -4358.37
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ 6656.00 8704.00 -4358.37
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ 8704.00 6656.09 -4358.37
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ 8704.00 8704.00 -4358.37
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ 6656.00 10751.90 -4358.37
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ 8704.00 10751.90 -4358.37
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ 4608.00 8704.00 -4358.37
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ 4864.00 7168.06 -4358.37
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ 10752.00 6656.09 -4358.37
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ 10752.00 8704.00 -4358.37
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ 8704.00 4608.16 -4358.37
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ 7168.00 4864.16 -4358.37
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ 5888.03 5888.09 -4358.37
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ 10240.00 4864.16 -4358.37
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ 10752.00 10751.90 -4358.37
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ 4864.00 10240.00 -4358.37
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -2048.00 -9728.00 -2373.07
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -512.00 -11263.90 -2373.07
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -512.00 -9728.00 -2373.07
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -2048.00 -8192.05 -2373.07
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -512.00 -8192.05 -2373.07
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -3584.00 -9728.00 -2373.07
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -3392.00 -10880.00 -2373.07
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ 1024.00 -11263.90 -2373.07
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ 1024.00 -9728.00 -2373.07
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -512.00 -12799.90 -2373.07
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -1664.00 -12607.90 -2373.07
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -2624.00 -11839.90 -2373.07
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ 640.00 -12607.90 -2373.07
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ 1024.00 -8192.05 -2373.07
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -3392.00 -8576.03 -2373.07
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ 5120.00 5120.00 -4352.00
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -9472.00 8960.00 6635.00
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -12864.00 2880.00 -5248.27
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -12676.00 4008.01 -5248.27
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -11360.00 4384.00 -5248.27
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -9856.00 4384.00 -5248.27
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -9856.00 2880.00 -5248.27
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -9856.00 -128.00 -5248.27
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -9856.00 1376.05 -5248.27
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -8352.00 2880.00 -5248.27
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -8352.00 4384.00 -5248.27
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -8352.00 1376.05 -5248.27
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -8728.00 60.00 -5248.27
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ 7744.00 -5056.00 -7182.00
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -7096.00 -7608.00 82.88
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -2048.00 -11263.90 -2373.07
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -512.00 -11263.90 -2373.07
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -2048.00 -11263.90 -2373.07
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -1344.00 -10432.00 -2373.07
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -3200.00 -12416.00 -2373.00
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -11360.00 2880.00 -5248.27
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -12544.00 191.90 -5248.20
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -11360.00 1376.05 -5248.27
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -12676.00 1751.97 -5248.27
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -11924.00 812.07 -5248.27
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -10984.00 60.00 -5248.27
+BuildFacelights:     0...1...2...3...4...5...6...7...8...9...10 (5)
+BuildVisLeafs:       0...1...2...3...4...5...6...7...8...9...10 (10)
+transfers 9298012, max 1862
+GatherLight:         0...1...2...3...4...5...6...7...8...9...10 (0)
+GatherLight:         0...1...2...3...4...5...6...7...8...9...10 (0)
+GatherLight:         0...1...2...3...4...5...6...7...8...9...10 (0)
+GatherLight:         0...1...2...3...4...5...6...7...8...9...10 (0)
+GatherLight:         0...1...2...3...4...5...6...7...8...9...10 (0)
+GatherLight:         0...1...2...3...4...5...6...7...8...9...10 (0)
+GatherLight:         0...1...2...3...4...5...6...7...8...9...10 (0)
+GatherLight:         0...1...2...3...4...5...6...7...8...9...10 (0)
+GatherLight:         0...1...2...3...4...5...6...7...8...9...10 (0)
+GatherLight:         0...1...2...3...4...5...6...7...8...9...10 (0)
+GatherLight:         0...1...2...3...4...5...6...7...8...9...10 (0)
+GatherLight:         0...1...2...3...4...5...6...7...8...9...10 (0)
+Build Patch/Sample Hash Table(s).....Done<0.0461 sec>
+FinalLightFace:      0...1...2...3...4...5...6...7...8...9...10 (3)
+FinalLightFace Done
+Computing detail prop lighting : 0...1...2...3...4...5...6...7...8...9...10
+152 of 152 (100% of) surface lights went in leaf ambient cubes.
+ThreadComputeLeafAmbient: 0...1...2...3...4...5...6...7...8...9...10 (13)
+Writing leaf ambient...done
+Ready to Finish
+Writing c:\users\administrator\documents\github\eclipsemap\decompiled map files\rp_EclipseGaming_dwrp_01_d.bsp
+37 seconds elapsed
+
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading C:\Users\Administrator\Documents\GitHub\EclipseMap\Decompiled Map Files\rp_EclipseGaming_dwrp_01_d.vmf
+Error! Variable "%keywords" is multiply defined in material "glass/glassblock001a"!
+Brush 94532: MAX_MAP_PLANES
+Side 5
+Texture: CONCRETE/CONCRETEWALL001A
+
+
+
+16 threads
+reading c:\users\administrator\documents\github\eclipsemap\decompiled map files\rp_EclipseGaming_dwrp_01_d.bsp
+reading c:\users\administrator\documents\github\eclipsemap\decompiled map files\rp_EclipseGaming_dwrp_01_d.prt
+LoadPortals: couldn't read c:\users\administrator\documents\github\eclipsemap\decompiled map files\rp_EclipseGaming_dwrp_01_d.prt
+
+
+
+[Reading texlights from 'lights.rad']
+[51 texlights parsed from 'lights.rad']
+Loading c:\users\administrator\documents\github\eclipsemap\decompiled map files\rp_EclipseGaming_dwrp_01_d.bsp
+PREP OK
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ 6656.00 6656.09 -4358.37
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ 6656.00 8704.00 -4358.37
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ 8704.00 6656.09 -4358.37
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ 8704.00 8704.00 -4358.37
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ 6656.00 10751.90 -4358.37
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ 8704.00 10751.90 -4358.37
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ 4608.00 8704.00 -4358.37
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ 4864.00 7168.06 -4358.37
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ 10752.00 6656.09 -4358.37
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ 10752.00 8704.00 -4358.37
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ 8704.00 4608.16 -4358.37
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ 7168.00 4864.16 -4358.37
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ 5888.03 5888.09 -4358.37
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ 10240.00 4864.16 -4358.37
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ 10752.00 10751.90 -4358.37
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ 4864.00 10240.00 -4358.37
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -2048.00 -9728.00 -2373.07
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -512.00 -11263.90 -2373.07
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -512.00 -9728.00 -2373.07
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -2048.00 -8192.05 -2373.07
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -512.00 -8192.05 -2373.07
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -3584.00 -9728.00 -2373.07
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -3392.00 -10880.00 -2373.07
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ 1024.00 -11263.90 -2373.07
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ 1024.00 -9728.00 -2373.07
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -512.00 -12799.90 -2373.07
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -1664.00 -12607.90 -2373.07
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -2624.00 -11839.90 -2373.07
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ 640.00 -12607.90 -2373.07
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ 1024.00 -8192.05 -2373.07
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -3392.00 -8576.03 -2373.07
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ 5120.00 5120.00 -4352.00
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -9472.00 8960.00 6635.00
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -12864.00 2880.00 -5248.27
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -12676.00 4008.01 -5248.27
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -11360.00 4384.00 -5248.27
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -9856.00 4384.00 -5248.27
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -9856.00 2880.00 -5248.27
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -9856.00 -128.00 -5248.27
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -9856.00 1376.05 -5248.27
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -8352.00 2880.00 -5248.27
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -8352.00 4384.00 -5248.27
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -8352.00 1376.05 -5248.27
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -8728.00 60.00 -5248.27
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ 7744.00 -5056.00 -7182.00
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -7096.00 -7608.00 82.88
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -2048.00 -11263.90 -2373.07
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -512.00 -11263.90 -2373.07
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -2048.00 -11263.90 -2373.07
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -1344.00 -10432.00 -2373.07
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -3200.00 -12416.00 -2373.00
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -11360.00 2880.00 -5248.27
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -12544.00 191.90 -5248.20
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -11360.00 1376.05 -5248.27
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -12676.00 1751.97 -5248.27
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -11924.00 812.07 -5248.27
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -10984.00 60.00 -5248.27
+BuildFacelights:     0...1...2...3...4...5...6...7...8...9...10 (5)
+BuildVisLeafs:       0...1...2...3...4...5...6...7...8...9...10 (11)
+transfers 9298012, max 1862
+GatherLight:         0...1...2...3...4...5...6...7...8...9...10 (0)
+GatherLight:         0...1...2...3...4...5...6...7...8...9...10 (0)
+GatherLight:         0...1...2...3...4...5...6...7...8...9...10 (0)
+GatherLight:         0...1...2...3...4...5...6...7...8...9...10 (0)
+GatherLight:         0...1...2...3...4...5...6...7...8...9...10 (0)
+GatherLight:         0...1...2...3...4...5...6...7...8...9...10 (0)
+GatherLight:         0...1...2...3...4...5...6...7...8...9...10 (0)
+GatherLight:         0...1...2...3...4...5...6...7...8...9...10 (0)
+GatherLight:         0...1...2...3...4...5...6...7...8...9...10 (0)
+GatherLight:         0...1...2...3...4...5...6...7...8...9...10 (0)
+GatherLight:         0...1...2...3...4...5...6...7...8...9...10 (0)
+GatherLight:         0...1...2...3...4...5...6...7...8...9...10 (0)
+Build Patch/Sample Hash Table(s).....Done<0.0495 sec>
+FinalLightFace:      0...1...2...3...4...5...6...7...8...9...10 (3)
+FinalLightFace Done
+Computing detail prop lighting : 0...1...2...3...4...5...6...7...8...9...10
+152 of 152 (100% of) surface lights went in leaf ambient cubes.
+ThreadComputeLeafAmbient: 0...1...2...3...4...5...6...7...8...9...10 (14)
+Writing leaf ambient...done
+Ready to Finish
+Writing c:\users\administrator\documents\github\eclipsemap\decompiled map files\rp_EclipseGaming_dwrp_01_d.bsp
+39 seconds elapsed
+
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading C:\Users\Administrator\Documents\GitHub\EclipseMap\Decompiled Map Files\rp_EclipseGaming_dwrp_01_d.vmf
+Error! Variable "%keywords" is multiply defined in material "glass/glassblock001a"!
+Patching WVT material: maps/rp_eclipsegaming_dwrp_01_d/cubic/nature/blendmarssand2_wvt_patch
+Patching WVT material: maps/rp_eclipsegaming_dwrp_01_d/nature/blenddirtgrass001a_wvt_patch
+Patching WVT material: maps/rp_eclipsegaming_dwrp_01_d/nature/blendrockdirt002a_wvt_patch
+Patching WVT material: maps/rp_eclipsegaming_dwrp_01_d/nature/blendrockdirt006a_wvt_patch
+Patching WVT material: maps/rp_eclipsegaming_dwrp_01_d/nature/blendmuddirt001b_wvt_patch
+Patching WVT material: maps/rp_eclipsegaming_dwrp_01_d/cubic/nature/blendrockmoon_wvt_patch
+fixing up env_cubemap materials on brush sides...
+ProcessBlock_Thread: 0...1...2...3...4...5...6...7...8...9...10 (0)
+ProcessBlock_Thread: 0...1...2...3...4...5...6...7...8...9...10 (0)
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 1426 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\Administrator\Documents\GitHub\EclipseMap\Decompiled Map Files\rp_EclipseGaming_dwrp_01_d.prt...
+Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/stars_*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/stars_*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+WARNING: Map using power 4 displacements, terrain physics cannot be compressed, map will need additional memory and CPU.
+done (0) (2685381 bytes)
+Error! To use model "models/props_foliage/tree_slice_chunk03.mdl" with prop_static, it must be compiled with $staticprop!
+Error loading studio model STATIC "models/props_foliage/tree_slice_chunk03.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 3381 texinfos to 1409
+Reduced 357 texdatas to 282 (22441 bytes to 18485)
+Writing C:\Users\Administrator\Documents\GitHub\EclipseMap\Decompiled Map Files\rp_EclipseGaming_dwrp_01_d.bsp
+4 seconds elapsed
+
+
+
+16 threads
+reading c:\users\administrator\documents\github\eclipsemap\decompiled map files\rp_EclipseGaming_dwrp_01_d.bsp
+reading c:\users\administrator\documents\github\eclipsemap\decompiled map files\rp_EclipseGaming_dwrp_01_d.prt
+1297 portalclusters
+3158 numportals
+BasePortalVis:       0...1...2...3...4...5...6...7...8...9...10 (0)
+Optimized: 6130 visible clusters (0.37%)
+Total clusters visible: 1645837
+Average clusters visible: 1268
+Building PAS...
+Average clusters audible: 1296
+visdatasize:431626  compressed from 435792
+writing c:\users\administrator\documents\github\eclipsemap\decompiled map files\rp_EclipseGaming_dwrp_01_d.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[51 texlights parsed from 'lights.rad']
+Loading c:\users\administrator\documents\github\eclipsemap\decompiled map files\rp_EclipseGaming_dwrp_01_d.bsp
+PREP OK
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ 6656.00 6656.09 -4358.37
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ 6656.00 8704.00 -4358.37
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ 8704.00 6656.09 -4358.37
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ 8704.00 8704.00 -4358.37
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ 6656.00 10751.90 -4358.37
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ 8704.00 10751.90 -4358.37
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ 4608.00 8704.00 -4358.37
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ 4864.00 7168.06 -4358.37
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ 10752.00 6656.09 -4358.37
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ 10752.00 8704.00 -4358.37
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ 8704.00 4608.16 -4358.37
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ 7168.00 4864.16 -4358.37
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ 5888.03 5888.09 -4358.37
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ 10240.00 4864.16 -4358.37
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ 10752.00 10751.90 -4358.37
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ 4864.00 10240.00 -4358.37
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -2048.00 -9728.00 -2373.07
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -512.00 -11263.90 -2373.07
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -512.00 -9728.00 -2373.07
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -2048.00 -8192.05 -2373.07
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -512.00 -8192.05 -2373.07
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -3584.00 -9728.00 -2373.07
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -3392.00 -10880.00 -2373.07
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ 1024.00 -11263.90 -2373.07
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ 1024.00 -9728.00 -2373.07
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -512.00 -12799.90 -2373.07
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -1664.00 -12607.90 -2373.07
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -2624.00 -11839.90 -2373.07
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ 640.00 -12607.90 -2373.07
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ 1024.00 -8192.05 -2373.07
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -3392.00 -8576.03 -2373.07
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ 5120.00 5120.00 -4352.00
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -9472.00 8960.00 6635.00
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -12864.00 2880.00 -5248.27
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -12676.00 4008.01 -5248.27
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -11360.00 4384.00 -5248.27
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -9856.00 4384.00 -5248.27
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -9856.00 2880.00 -5248.27
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -9856.00 -128.00 -5248.27
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -9856.00 1376.05 -5248.27
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -8352.00 2880.00 -5248.27
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -8352.00 4384.00 -5248.27
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -8352.00 1376.05 -5248.27
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -8728.00 60.00 -5248.27
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ 7744.00 -5056.00 -7182.00
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -7096.00 -7608.00 82.88
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -2048.00 -11263.90 -2373.07
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -512.00 -11263.90 -2373.07
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -2048.00 -11263.90 -2373.07
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -1344.00 -10432.00 -2373.07
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -3200.00 -12416.00 -2373.00
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -11360.00 2880.00 -5248.27
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -12544.00 191.90 -5248.20
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -11360.00 1376.05 -5248.27
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -12676.00 1751.97 -5248.27
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -11924.00 812.07 -5248.27
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -10984.00 60.00 -5248.27
+BuildFacelights:     0...1...2...3...4...5...6...7...8...9...10 (5)
+BuildVisLeafs:       0...1...2...3...4...5...6...7...8...9...10 (10)
+transfers 9298250, max 1862
+GatherLight:         0...1...2...3...4...5...6...7...8...9...10 (0)
+GatherLight:         0...1...2...3...4...5...6...7...8...9...10 (0)
+GatherLight:         0...1...2...3...4...5...6...7...8...9...10 (0)
+GatherLight:         0...1...2...3...4...5...6...7...8...9...10 (0)
+GatherLight:         0...1...2...3...4...5...6...7...8...9...10 (0)
+GatherLight:         0...1...2...3...4...5...6...7...8...9...10 (0)
+GatherLight:         0...1...2...3...4...5...6...7...8...9...10 (0)
+GatherLight:         0...1...2...3...4...5...6...7...8...9...10 (0)
+GatherLight:         0...1...2...3...4...5...6...7...8...9...10 (0)
+GatherLight:         0...1...2...3...4...5...6...7...8...9...10 (0)
+GatherLight:         0...1...2...3...4...5...6...7...8...9...10 (0)
+GatherLight:         0...1...2...3...4...5...6...7...8...9...10 (0)
+Build Patch/Sample Hash Table(s).....Done<0.0410 sec>
+FinalLightFace:      0...1...2...3...4...5...6...7...8...9...10 (3)
+FinalLightFace Done
+Computing detail prop lighting : 0...1...2...3...4...5...6...7...8...9...10
+152 of 152 (100% of) surface lights went in leaf ambient cubes.
+ThreadComputeLeafAmbient: 0...1...2...3...4...5...6...7...8...9...10 (13)
+Writing leaf ambient...done
+Ready to Finish
+Writing c:\users\administrator\documents\github\eclipsemap\decompiled map files\rp_EclipseGaming_dwrp_01_d.bsp
+38 seconds elapsed
+
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading C:\Users\Administrator\Documents\GitHub\EclipseMap\Decompiled Map Files\rp_EclipseGaming_dwrp_01_d.vmf
+Error! Variable "%keywords" is multiply defined in material "glass/glassblock001a"!
+Patching WVT material: maps/rp_eclipsegaming_dwrp_01_d/cubic/nature/blendmarssand2_wvt_patch
+Patching WVT material: maps/rp_eclipsegaming_dwrp_01_d/nature/blenddirtgrass001a_wvt_patch
+Patching WVT material: maps/rp_eclipsegaming_dwrp_01_d/nature/blendrockdirt002a_wvt_patch
+Patching WVT material: maps/rp_eclipsegaming_dwrp_01_d/nature/blendrockdirt006a_wvt_patch
+Patching WVT material: maps/rp_eclipsegaming_dwrp_01_d/nature/blendmuddirt001b_wvt_patch
+Patching WVT material: maps/rp_eclipsegaming_dwrp_01_d/cubic/nature/blendrockmoon_wvt_patch
+fixing up env_cubemap materials on brush sides...
+ProcessBlock_Thread: 0...1...2...3...4...5...6...7...8...9...10 (0)
+ProcessBlock_Thread: 0...1...2...3...4...5...6...7...8...9...10 (0)
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 1426 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\Administrator\Documents\GitHub\EclipseMap\Decompiled Map Files\rp_EclipseGaming_dwrp_01_d.prt...
+Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/stars_*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/stars_*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+WARNING: Map using power 4 displacements, terrain physics cannot be compressed, map will need additional memory and CPU.
+done (0) (2685380 bytes)
+Error! To use model "models/props_foliage/tree_slice_chunk03.mdl" with prop_static, it must be compiled with $staticprop!
+Error loading studio model STATIC "models/props_foliage/tree_slice_chunk03.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 3381 texinfos to 1409
+Reduced 357 texdatas to 282 (22441 bytes to 18485)
+Writing C:\Users\Administrator\Documents\GitHub\EclipseMap\Decompiled Map Files\rp_EclipseGaming_dwrp_01_d.bsp
+4 seconds elapsed
+
+
+
+16 threads
+reading c:\users\administrator\documents\github\eclipsemap\decompiled map files\rp_EclipseGaming_dwrp_01_d.bsp
+reading c:\users\administrator\documents\github\eclipsemap\decompiled map files\rp_EclipseGaming_dwrp_01_d.prt
+1297 portalclusters
+3158 numportals
+BasePortalVis:       0...1...2...3...4...5...6...7...8...9...10 (0)
+Optimized: 6130 visible clusters (0.37%)
+Total clusters visible: 1645837
+Average clusters visible: 1268
+Building PAS...
+Average clusters audible: 1296
+visdatasize:431626  compressed from 435792
+writing c:\users\administrator\documents\github\eclipsemap\decompiled map files\rp_EclipseGaming_dwrp_01_d.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[51 texlights parsed from 'lights.rad']
+Loading c:\users\administrator\documents\github\eclipsemap\decompiled map files\rp_EclipseGaming_dwrp_01_d.bsp
+PREP OK
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ 6656.00 6656.09 -4358.37
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ 6656.00 8704.00 -4358.37
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ 8704.00 6656.09 -4358.37
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ 8704.00 8704.00 -4358.37
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ 6656.00 10751.90 -4358.37
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ 8704.00 10751.90 -4358.37
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ 4608.00 8704.00 -4358.37
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ 4864.00 7168.06 -4358.37
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ 10752.00 6656.09 -4358.37
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ 10752.00 8704.00 -4358.37
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ 8704.00 4608.16 -4358.37
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ 7168.00 4864.16 -4358.37
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ 5888.03 5888.09 -4358.37
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ 10240.00 4864.16 -4358.37
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ 10752.00 10751.90 -4358.37
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ 4864.00 10240.00 -4358.37
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -2048.00 -9728.00 -2373.07
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -512.00 -11263.90 -2373.07
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -512.00 -9728.00 -2373.07
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -2048.00 -8192.05 -2373.07
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -512.00 -8192.05 -2373.07
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -3584.00 -9728.00 -2373.07
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -3392.00 -10880.00 -2373.07
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ 1024.00 -11263.90 -2373.07
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ 1024.00 -9728.00 -2373.07
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -512.00 -12799.90 -2373.07
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -1664.00 -12607.90 -2373.07
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -2624.00 -11839.90 -2373.07
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ 640.00 -12607.90 -2373.07
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ 1024.00 -8192.05 -2373.07
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -3392.00 -8576.03 -2373.07
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ 5120.00 5120.00 -4352.00
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -9472.00 8960.00 6635.00
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -12864.00 2880.00 -5248.27
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -12676.00 4008.01 -5248.27
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -11360.00 4384.00 -5248.27
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -9856.00 4384.00 -5248.27
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -9856.00 2880.00 -5248.27
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -9856.00 -128.00 -5248.27
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -9856.00 1376.05 -5248.27
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -8352.00 2880.00 -5248.27
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -8352.00 4384.00 -5248.27
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -8352.00 1376.05 -5248.27
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -8728.00 60.00 -5248.27
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ 7744.00 -5056.00 -7182.00
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -7096.00 -7608.00 82.88
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -2048.00 -11263.90 -2373.07
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -512.00 -11263.90 -2373.07
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -2048.00 -11263.90 -2373.07
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -1344.00 -10432.00 -2373.07
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -3200.00 -12416.00 -2373.00
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -11360.00 2880.00 -5248.27
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -12544.00 191.90 -5248.20
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -11360.00 1376.05 -5248.27
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -12676.00 1751.97 -5248.27
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -11924.00 812.07 -5248.27
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -10984.00 60.00 -5248.27
+BuildFacelights:     0...1...2...3...4...5...6...7...8...9...10 (5)
+BuildVisLeafs:       0...1...2...3...4...5...6...7...8...9...10 (10)
+transfers 9297972, max 1862
+GatherLight:         0...1...2...3...4...5...6...7...8...9...10 (0)
+GatherLight:         0...1...2...3...4...5...6...7...8...9...10 (0)
+GatherLight:         0...1...2...3...4...5...6...7...8...9...10 (0)
+GatherLight:         0...1...2...3...4...5...6...7...8...9...10 (0)
+GatherLight:         0...1...2...3...4...5...6...7...8...9...10 (0)
+GatherLight:         0...1...2...3...4...5...6...7...8...9...10 (0)
+GatherLight:         0...1...2...3...4...5...6...7...8...9...10 (0)
+GatherLight:         0...1...2...3...4...5...6...7...8...9...10 (0)
+GatherLight:         0...1...2...3...4...5...6...7...8...9...10 (0)
+GatherLight:         0...1...2...3...4...5...6...7...8...9...10 (0)
+GatherLight:         0...1...2...3...4...5...6...7...8...9...10 (0)
+GatherLight:         0...1...2...3...4...5...6...7...8...9...10 (0)
+Build Patch/Sample Hash Table(s).....Done<0.0422 sec>
+FinalLightFace:      0...1...2...3...4...5...6...7...8...9...10 (3)
+FinalLightFace Done
+Computing detail prop lighting : 0...1...2...3...4...5...6...7...8...9...10
+152 of 152 (100% of) surface lights went in leaf ambient cubes.
+ThreadComputeLeafAmbient: 0...1...2...3...4...5...6...7...8...9...10 (15)
+Writing leaf ambient...done
+Ready to Finish
+Writing c:\users\administrator\documents\github\eclipsemap\decompiled map files\rp_EclipseGaming_dwrp_01_d.bsp
+39 seconds elapsed
+
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading C:\Users\Administrator\Documents\GitHub\EclipseMap\Decompiled Map Files\rp_EclipseGaming_dwrp_01_d.vmf
+Error! Variable "%keywords" is multiply defined in material "glass/glassblock001a"!
+Patching WVT material: maps/rp_eclipsegaming_dwrp_01_d/cubic/nature/blendmarssand2_wvt_patch
+Patching WVT material: maps/rp_eclipsegaming_dwrp_01_d/nature/blenddirtgrass001a_wvt_patch
+Patching WVT material: maps/rp_eclipsegaming_dwrp_01_d/nature/blendrockdirt002a_wvt_patch
+Patching WVT material: maps/rp_eclipsegaming_dwrp_01_d/nature/blendrockdirt006a_wvt_patch
+Patching WVT material: maps/rp_eclipsegaming_dwrp_01_d/nature/blendmuddirt001b_wvt_patch
+Patching WVT material: maps/rp_eclipsegaming_dwrp_01_d/cubic/nature/blendrockmoon_wvt_patch
+fixing up env_cubemap materials on brush sides...
+ProcessBlock_Thread: 0...1...2...3...4...5...6...7...8...9...10 (0)
+ProcessBlock_Thread: 0...1...2...3...4...5...6...7...8...9...10 (1)
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 1426 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\Administrator\Documents\GitHub\EclipseMap\Decompiled Map Files\rp_EclipseGaming_dwrp_01_d.prt...
+Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/stars_*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/stars_*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+WARNING: Map using power 4 displacements, terrain physics cannot be compressed, map will need additional memory and CPU.
+done (1) (2685381 bytes)
+Error! To use model "models/props_foliage/tree_slice_chunk03.mdl" with prop_static, it must be compiled with $staticprop!
+Error loading studio model STATIC "models/props_foliage/tree_slice_chunk03.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 3381 texinfos to 1409
+Reduced 357 texdatas to 282 (22441 bytes to 18485)
+Writing C:\Users\Administrator\Documents\GitHub\EclipseMap\Decompiled Map Files\rp_EclipseGaming_dwrp_01_d.bsp
+5 seconds elapsed
+
+
+
+16 threads
+reading c:\users\administrator\documents\github\eclipsemap\decompiled map files\rp_EclipseGaming_dwrp_01_d.bsp
+reading c:\users\administrator\documents\github\eclipsemap\decompiled map files\rp_EclipseGaming_dwrp_01_d.prt
+1297 portalclusters
+3158 numportals
+BasePortalVis:       0...1...2...3...4...5...6...7...8...9...10 (0)
+Optimized: 6130 visible clusters (0.37%)
+Total clusters visible: 1645837
+Average clusters visible: 1268
+Building PAS...
+Average clusters audible: 1296
+visdatasize:431626  compressed from 435792
+writing c:\users\administrator\documents\github\eclipsemap\decompiled map files\rp_EclipseGaming_dwrp_01_d.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[51 texlights parsed from 'lights.rad']
+Loading c:\users\administrator\documents\github\eclipsemap\decompiled map files\rp_EclipseGaming_dwrp_01_d.bsp
+PREP OK
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ 6656.00 6656.09 -4358.37
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ 6656.00 8704.00 -4358.37
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ 8704.00 6656.09 -4358.37
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ 8704.00 8704.00 -4358.37
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ 6656.00 10751.90 -4358.37
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ 8704.00 10751.90 -4358.37
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ 4608.00 8704.00 -4358.37
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ 4864.00 7168.06 -4358.37
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ 10752.00 6656.09 -4358.37
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ 10752.00 8704.00 -4358.37
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ 8704.00 4608.16 -4358.37
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ 7168.00 4864.16 -4358.37
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ 5888.03 5888.09 -4358.37
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ 10240.00 4864.16 -4358.37
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ 10752.00 10751.90 -4358.37
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ 4864.00 10240.00 -4358.37
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -2048.00 -9728.00 -2373.07
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -512.00 -11263.90 -2373.07
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -512.00 -9728.00 -2373.07
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -2048.00 -8192.05 -2373.07
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -512.00 -8192.05 -2373.07
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -3584.00 -9728.00 -2373.07
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -3392.00 -10880.00 -2373.07
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ 1024.00 -11263.90 -2373.07
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ 1024.00 -9728.00 -2373.07
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -512.00 -12799.90 -2373.07
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -1664.00 -12607.90 -2373.07
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -2624.00 -11839.90 -2373.07
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ 640.00 -12607.90 -2373.07
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ 1024.00 -8192.05 -2373.07
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -3392.00 -8576.03 -2373.07
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ 5120.00 5120.00 -4352.00
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -9472.00 8960.00 6635.00
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -12864.00 2880.00 -5248.27
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -12676.00 4008.01 -5248.27
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -11360.00 4384.00 -5248.27
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -9856.00 4384.00 -5248.27
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -9856.00 2880.00 -5248.27
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -9856.00 -128.00 -5248.27
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -9856.00 1376.05 -5248.27
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -8352.00 2880.00 -5248.27
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -8352.00 4384.00 -5248.27
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -8352.00 1376.05 -5248.27
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -8728.00 60.00 -5248.27
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ 7744.00 -5056.00 -7182.00
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -7096.00 -7608.00 82.88
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -2048.00 -11263.90 -2373.07
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -512.00 -11263.90 -2373.07
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -2048.00 -11263.90 -2373.07
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -1344.00 -10432.00 -2373.07
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -3200.00 -12416.00 -2373.00
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -11360.00 2880.00 -5248.27
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -12544.00 191.90 -5248.20
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -11360.00 1376.05 -5248.27
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -12676.00 1751.97 -5248.27
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -11924.00 812.07 -5248.27
+DispColl: Patch Sample Radius Clamped! (4505.6 => 1500.0 max via -disppatchradius) @ -10984.00 60.00 -5248.27
+BuildFacelights:     0...1...2...3...4...5...6...7...8...9...10 (7)
+BuildVisLeafs:       0...1...2...3...4...5...6...7...8...9...10 (11)
+transfers 9297970, max 1862
+GatherLight:         0...1...2...3...4...5...6...7...8...9...10 (0)
+GatherLight:         0...1...2...3...4...5...6...7...8...9...10 (0)
+GatherLight:         0...1...2...3...4...5...6...7...8...9...10 (0)
+GatherLight:         0...1...2...3...4...5...6...7...8...9...10 (0)
+GatherLight:         0...1...2...3...4...5...6...7...8...9...10 (0)
+GatherLight:         0...1...2...3...4...5...6...7...8...9...10 (0)
+GatherLight:         0...1...2...3...4...5...6...7...8...9...10 (0)
+GatherLight:         0...1...2...3...4...5...6...7...8...9...10 (1)
+GatherLight:         0...1...2...3...4...5...6...7...8...9...10 (0)
+GatherLight:         0...1...2...3...4...5...6...7...8...9...10 (0)
+GatherLight:         0...1...2...3...4...5...6...7...8...9...10 (0)
+GatherLight:         0...1...2...3...4...5...6...7...8...9...10 (0)
+Build Patch/Sample Hash Table(s).....Done<0.0544 sec>
+FinalLightFace:      0...1...2...3...4...5...6...7...8...9...10 (4)
+FinalLightFace Done
+Computing detail prop lighting : 0...1...2...3...4...5...6...7...8...9...10
+152 of 152 (100% of) surface lights went in leaf ambient cubes.
+ThreadComputeLeafAmbient: 0...1...2...3...4...5...6...7...8...9...10 (15)
+Writing leaf ambient...done
+Ready to Finish
+Writing c:\users\administrator\documents\github\eclipsemap\decompiled map files\rp_EclipseGaming_dwrp_01_d.bsp
+44 seconds elapsed
+
